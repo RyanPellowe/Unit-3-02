@@ -1,0 +1,14 @@
+.div {
+  width: 300px;
+  border: 15px solid indianred;
+  padding: 50px;
+  margin: 20px;
+}
+
+.picture {
+  border: 15px solid lightblue;
+}
+
+.table,th,td {
+  border: 1px solid black;
+}
